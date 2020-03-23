@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "390063b766eda4befde44f56c930154e",
+    "content-hash": "e330cb293e5fae4a45b281fd3f3548bd",
     "packages": [
         {
             "name": "advanced-custom-fields/advanced-custom-fields-pro",
@@ -1030,6 +1030,24 @@
             },
             "type": "wordpress-plugin",
             "homepage": "https://wordpress.org/plugins/mw-wp-form/"
+        },
+        {
+            "name": "wpackagist-plugin/my-calendar",
+            "version": "3.1.18",
+            "source": {
+                "type": "svn",
+                "url": "https://plugins.svn.wordpress.org/my-calendar/",
+                "reference": "tags/3.1.18"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://downloads.wordpress.org/plugin/my-calendar.3.1.18.zip"
+            },
+            "require": {
+                "composer/installers": "~1.0"
+            },
+            "type": "wordpress-plugin",
+            "homepage": "https://wordpress.org/plugins/my-calendar/"
         },
         {
             "name": "wpackagist-plugin/wordpress-importer",
