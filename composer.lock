@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "19dfa5893e7823e0ab631eeb5a29e458",
+    "content-hash": "78c718bd65104d435d50ea61446d8ac0",
     "packages": [
         {
             "name": "advanced-custom-fields/advanced-custom-fields-pro",
@@ -976,24 +976,6 @@
             },
             "type": "wordpress-plugin",
             "homepage": "https://wordpress.org/plugins/google-sitemap-generator/"
-        },
-        {
-            "name": "wpackagist-plugin/imsanity",
-            "version": "2.5.0",
-            "source": {
-                "type": "svn",
-                "url": "https://plugins.svn.wordpress.org/imsanity/",
-                "reference": "tags/2.5.0"
-            },
-            "dist": {
-                "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/imsanity.2.5.0.zip"
-            },
-            "require": {
-                "composer/installers": "~1.0"
-            },
-            "type": "wordpress-plugin",
-            "homepage": "https://wordpress.org/plugins/imsanity/"
         },
         {
             "name": "wpackagist-plugin/intuitive-custom-post-order",
